@@ -8,7 +8,7 @@ div{
 	justify-content: center;
 	align-items: center;
 	font-size: 30px;
-	margin: auto;
-	position: relative;
+	position: absolute;
 	top: 100px;
+	left: 150px;
 }
